@@ -1,0 +1,3 @@
+# generated data files (keep out of git)
+*.xlsx
+~$*.xlsx
